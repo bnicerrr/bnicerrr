@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bnicerrr
+- 👀 I’m interested in full stack web development.
+- 🌱 I’m currently learning up on devops, and using different deployment processes and pipelines for various projects.
+- 💞️ I’m looking to collaborate on really anything. I have a two open projects right now, a fantasy UFC app, and voice synthesis app using machine learning.
+- 📫 How to reach me - bnicerrr@gmail.com
